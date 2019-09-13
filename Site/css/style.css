@@ -2294,6 +2294,7 @@ h4.panel-title a.collapsed:before {
     background-size: cover;
     background-attachment: fixed;
     background-position: 50% 50%;
+    text-align: center;
 }
 
 .testimonial-area .border-title,
