@@ -30,7 +30,7 @@
 19.   News Single
 20.   Sidebar
 21.   Error page
-  
+
 */
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,500i,600,600i,700,700i,800|Open+Sans:400,400i,600,600i,700,700i,800);
@@ -243,7 +243,7 @@ img.pull-right {
     color: #fff;
 }
 
-.dark-bg h2, 
+.dark-bg h2,
 .dark-bg h3{
     color: #fff;
 }
@@ -1773,7 +1773,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 }
 
 
-/* Service box 
+/* Service box
 
 .ts-service-box .ts-service-icon i {
     font-size: 24px;
@@ -2612,10 +2612,10 @@ img.testimonial-thumb {
     color: #747474;
 }
 
-.footer-widget ul.list-arrow li:hover a,
+/*.footer-widget ul.list-arrow li:hover a,
 .footer-widget ul.list-arrow li:hover {
     color: #ffb600;
-}
+}*/
 
 .working-hours {
     padding-right: 10px;
